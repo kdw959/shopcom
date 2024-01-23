@@ -28,4 +28,9 @@ public class DongyeongController {
 	public void login() {
 		
 	}
+	@GetMapping("/noticePage")
+	public void page() {
+		
+	}
+	
 }
