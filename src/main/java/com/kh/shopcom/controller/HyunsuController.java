@@ -7,8 +7,13 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class HyunsuController {
 	
+	@GetMapping("/productList")
+	public void productList() {
+		
+	}
+	
 	@GetMapping("/product")
-	public void hyunsu() {
+	public void product() {
 		
 	}
 

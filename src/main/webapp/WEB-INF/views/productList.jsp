@@ -52,11 +52,11 @@
 	
 	#divSideBar {
  		width: 280px;
- 		height: 700px;
+ 		height: 800px;
  		background-color: #202020;
  		border: solid 1px #ffbe33;
    		position: absolute;
-    	overflow-y: scroll;
+    	overflow-y: auto;
 	}
 	
 	#divSideBar::-webkit-scrollbar{
