@@ -22,6 +22,6 @@ public class DongyeongController {
 	}
 	@GetMapping("/question")
 	public void question() {
-		System.out.println("question...");
+		
 	}
 }
