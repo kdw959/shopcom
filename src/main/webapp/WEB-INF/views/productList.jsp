@@ -22,13 +22,13 @@
 		text-align: center;
 		font-weight: bold;
 		font-size: 23px;
+		font-fmaily: "고딕";
 		font: bold;
 		padding-top: 10px;
 	}
 	.prdInfo {
 		text-align: center;
 		font-size: 15px;
-		font: bold;
 	}
 	
 	.btnProductInfo {
