@@ -24,4 +24,13 @@ public class DongyeongController {
 	public void question() {
 		
 	}
+	@GetMapping("/login")
+	public void login() {
+		
+	}
+	@GetMapping("/noticePage")
+	public void page() {
+		
+	}
+	
 }
